@@ -70,7 +70,7 @@ Active Directory deployment with domain controller, GPO-enforced restrictions, N
 ### [Stage 3 — Secure Communications](./stage-3-secure-comms/)
 WireGuard VPN server configured on Linux with external endpoint connection, HTTPS web server with self-signed SSL certificate, and Bitdefender GravityZone deployed in centralized management mode.
 
-### [Stage 4 — Layer 2 Security](./stage-4-network-security/) *(in progress)*
+### [Stage 4 — Layer 2 Security](./stage-4-network-security/) 
 VLAN segmentation and Layer 2 attack simulations in Cisco Packet Tracer, including attack demonstration and active defense mechanisms.
 
 ---
